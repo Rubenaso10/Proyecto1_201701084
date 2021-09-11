@@ -1,0 +1,10 @@
+digraph "Diosito imprimime el grafo" {
+	rankdir=TB size="8,5"
+	1 [label="'Restaurante LFP'"]
+	2 [label="'Bebidas'"]
+	1 -> 2
+	3 [label="'Desayunos'"]
+	1 -> 3
+	4 [label="'  Postres'"]
+	1 -> 4
+}

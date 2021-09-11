@@ -1,0 +1,5 @@
+digraph G {
+	Restaurante -> Bebidas
+	Restaurante -> Desayunos
+	Restaurante -> Postres
+}
